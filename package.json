@@ -1,6 +1,6 @@
 {
   "name": "@rhost/sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Node port of Deno-Rost",
   "main": "/dist/index.js",
   "repository": "https://github.com/lcanady/node-rhost.git",
