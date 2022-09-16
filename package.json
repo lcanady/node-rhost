@@ -12,6 +12,9 @@
     "test": "jest",
     "build": "tsc -p tsconfig.json"
   },
+  "files": [
+    "dist"
+  ],
   "devDependencies": {
     "@types/jest": "^29.0.3",
     "@types/node": "^18.7.18",

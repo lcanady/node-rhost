@@ -7,7 +7,7 @@ of Deno-Rhost[3].
 
 * [1] https://nodejs.org/
 * [2] http://rhostmush.com/
-* [3] https://github.com/stevensmedia/deno-rhost
+* [3] https://github.com/RhostMUSH/deno-rhost
 
 ## Sample of use:
 ```JS
